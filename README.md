@@ -1,0 +1,1 @@
+En este proyecto utilizaré todo el conocimiento que aprendí de HTML. Creare una página un poco brutalista, pero podré repasar todo lo que es headers, paragraphs, listas, anchors, boilerplates, imágenes y git.
